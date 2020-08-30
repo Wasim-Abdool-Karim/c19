@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private Animator avatarAnimation;
     private float horizontal_movement = 0f;
     private float jump_speed = 8f;
-    public float move_speed = 3.5f;
+    public float move_speed = 5f;
     private float avatar_scale;
     // for detecting if avatar is on the onGround
     public Transform groundCheck;
